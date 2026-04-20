@@ -29,13 +29,13 @@ No forms. No manual input. Just a conversation.
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](./public/screenshots/landing.png)
+![Landing Page](./public/screenshots/landing.PNG)
 
 ### Program Gallery & Terminal Overlay
-![Program Gallery](./public/screenshots/gallery.png)
+![Program Gallery](./public/screenshots/gallery.PNG)
 
 ### AI-Generated Program Cards
-![Program Cards](./public/screenshots/cards.png)
+![Program Cards](./public/screenshots/cards.PNG)
 
 ---
 
